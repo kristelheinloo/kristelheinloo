@@ -1,16 +1,15 @@
-## Hi there 👋
+Tere! Olen Kristel 👋
 
-<!--
-**kristelheinloo/kristelheinloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Õpin Haapsalu Kutsehariduskeskuses IT süsteemide nooremspetsialistiks.
 
-Here are some ideas to get you started:
+## Minust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mind huvitab küberturvalisus
+- Vabal ajal ma käin väljas.
+
+## Mida ma olen õppinud
+
+| Õppeaine | Mida oskan |
+|---|---|
+| Arvutivõrkude alused | Packet Traceriga teha asju |
+| Op.süsteemide ja küberturbe alused | Linux serveri seadistust VirtualBoxiga |
