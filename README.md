@@ -11,5 +11,5 @@ Tere! Olen Kristel 👋
 
 | Õppeaine | Mida oskan |
 |---|---|
-| Arvutivõrkude alused | Packet Traceriga teha asju |
+| Arvutivõrkude alused | IP-aadress |
 | Op.süsteemide ja küberturbe alused | Linux serveri seadistust VirtualBoxiga |
